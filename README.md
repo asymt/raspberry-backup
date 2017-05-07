@@ -14,3 +14,5 @@ bash backup.sh /mnt/raspberrypi.img 5000
 - raspberrypi
 - ubuntu
 - debian
+- rad hat
+- centos
